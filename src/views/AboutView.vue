@@ -59,13 +59,14 @@ const authStore = useAuthStore();
         <p>
             If you care to look at my code:
             <ul>
-                <li>Here's the backend code: <a target="_blank" href="https://github.com/gitberry/jwtnet47demo">https://github.com/gitberry/jwtnet47demo</a> - and if you want to play 
+                <li>Here's the backend code: <a target="_blank" href="https://github.com/gitberry/jwt-demo-backend-net47">https://github.com/gitberry/jwt-demo-backend-net47</a> - and if you want to play 
                     around with a working version of it - I've deployed it here: <a target="_blank" href="https://jwtdemo.northberry.ca/json">https://jwtdemo.northberry.ca/json</a>
                     Of course you will have to look through the frontend code to see how to call it from your own frontend - or if you're lucky 
                     and I have swagger enabled - you can experiment with swagger: <a target="_blank" href="https://jwtdemo.northberry.ca/json/swagger">https://jwtdemo.northberry.ca/json/swagger</a>.
                 </li>
-                <li>Here's the frontend code:  https://github.com/gitberry/jwtvuevitepinademo - and if you want to play around with it - I've deployed it here: 
-                    https://jwtdemo.northberry.ca/  
+                <li>Here's the frontend code:  <a target=_blank href="https://github.com/gitberry/jwt-demo-frontend-vuevitepinia">https://github.com/gitberry/jwt-demo-frontend-vuevitepinia</a>
+                     - and if you want to play around with it - I've deployed it here: 
+                    <a target=_blank href="https://jwtdemo.northberry.ca">https://jwtdemo.northberry.ca</a>
                 </li>
             </ul>
             Testing tools:
