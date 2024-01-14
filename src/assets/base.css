@@ -1,0 +1,18 @@
+a {
+    cursor: pointer;
+}
+
+.app-container {
+    min-height: 350px;
+}
+
+.input1 { width: 100%}
+
+.SaveButton {
+    color:cornflowerblue;
+    padding: 8px;
+    margin-top:18px;
+    margin-left: 25%;
+    width: 50%;
+
+}
