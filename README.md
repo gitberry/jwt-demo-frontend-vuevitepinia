@@ -35,5 +35,7 @@ Here's the frontend code: https://github.com/gitberry/jwtvuevitepinademo - and i
 ### Testing tools: ###
 
 https://jwt.io - helps inspect the tokens - and particularly nice because you don't need to decode them - leave them base64 encoded as they are generated and paste them t in to be reviewed.
+
 https://www.epochconverter.com - helps the exp(iry) value - a unix time value...
+
 I would have had to use something like Postman or Fiddler if I hadn't had my own demo frontend where I could use native browser dev tools to inspect values etc... 
