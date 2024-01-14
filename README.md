@@ -29,6 +29,7 @@ So today - we have a two little apps coexisting on the same location (a neat tri
 Here's the backend code: https://github.com/gitberry/jwtnet47demo - and if you want to play around with a working version of it - I've deployed it here: https://jwtdem
 northberry.ca/json Of course you will have to look through the frontend code to see how to call it from your own frontend - or if you're lucky and I have swagger enabled 
 you can experiment with swagger: https://jwtdemo.northberry.ca/json/swagger.
+
 Here's the frontend code: https://github.com/gitberry/jwtvuevitepinademo - and if you want to play around with it - I've deployed it here: https://jwtdemo.northberry.ca/ 
 
 ### Testing tools: ###
