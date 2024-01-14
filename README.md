@@ -26,12 +26,13 @@ So today - we have a two little apps coexisting on the same location (a neat tri
 
 ### If you care to look at my code: ###
 
-    Here's the backend code: https://github.com/gitberry/jwtnet47demo - and if you want to play around with a working version of it - I've deployed it here: https://jwtdemo.northberry.ca/json Of course you will have to look through the frontend code to see how to call it from your own frontend - or if you're lucky and I have swagger enabled - you can experiment with swagger: https://jwtdemo.northberry.ca/json/swagger.
-    Here's the frontend code: https://github.com/gitberry/jwtvuevitepinademo - and if you want to play around with it - I've deployed it here: https://jwtdemo.northberry.ca/ 
+Here's the backend code: https://github.com/gitberry/jwtnet47demo - and if you want to play around with a working version of it - I've deployed it here: https://jwtdem
+northberry.ca/json Of course you will have to look through the frontend code to see how to call it from your own frontend - or if you're lucky and I have swagger enabled 
+you can experiment with swagger: https://jwtdemo.northberry.ca/json/swagger.
+Here's the frontend code: https://github.com/gitberry/jwtvuevitepinademo - and if you want to play around with it - I've deployed it here: https://jwtdemo.northberry.ca/ 
 
 ### Testing tools: ###
 
-    https://jwt.io - helps inspect the tokens - and particularly nice because you don't need to decode them - leave them base64 encoded as they are generated and paste them right in to be reviewed.
-    https://www.epochconverter.com - helps the exp(iry) value - a unix time value...
-    I would have had to use something like Postman or Fiddler if I hadn't had my own demo frontend where I could use native browser dev tools to inspect values etc... 
-    
+https://jwt.io - helps inspect the tokens - and particularly nice because you don't need to decode them - leave them base64 encoded as they are generated and paste them t in to be reviewed.
+https://www.epochconverter.com - helps the exp(iry) value - a unix time value...
+I would have had to use something like Postman or Fiddler if I hadn't had my own demo frontend where I could use native browser dev tools to inspect values etc... 
