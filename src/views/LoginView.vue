@@ -21,7 +21,8 @@ function onSubmit(values, { setErrors }) {
 <template>
     <div>
         <h1>Funny Songs</h1>
-        <p>A demo app using JWT tokens and a list of funny songs. (Username: Billy & Password: bob)</p>        
+        <p>A demo app using JWT tokens and a list of funny songs. <br/>
+        Login with Username: Billy  Password: bob ; your token is good for 2 minutes - so test that out and see what it does after 2 minutes.</p>        
         <!-- <img src="/favicon.ico"> -->
         <h2>Login</h2>
         <Form @submit="onSubmit" :validation-schema="schema" v-slot="{ errors, isSubmitting }">
